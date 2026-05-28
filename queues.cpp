@@ -46,3 +46,5 @@ void insert()
         }
         queue_array[REAR] = num;
     }
+
+void remove()
